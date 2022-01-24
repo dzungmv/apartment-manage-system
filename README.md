@@ -2,7 +2,7 @@
 
 That project to demo basic function about Apartment website.
 
-Technology Dev: Nodejs + MongoBD
+Technology Dev: Nodejs [template engine: Handlebars] + MongoBD [compass]
 
 Make sure your device installed Nodejs + MongoDB
 
