@@ -17,4 +17,4 @@ Step by step:
 + Run: "$npm start" to start project
 
 
-Co-Founder: vandung3101
+Co-Author: vandung3101
