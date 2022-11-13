@@ -15,6 +15,3 @@ Step by step:
 + Open terminal on this project
 + Run: "$npm install" to installed package as nodes_module folder
 + Run: "$npm start" to start project
-
-
-Co-Author: vandung3101
