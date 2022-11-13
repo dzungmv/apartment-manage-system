@@ -1,4 +1,4 @@
-# Apartment-Project-basic-func-for-Software-Engineering
+# Apartment manage system
 
 That project to demo basic function about Apartment website.
 
